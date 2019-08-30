@@ -46,3 +46,4 @@ DEX Lottery
 - Network protocol
 - WS API
 - REST/JSON API
+- Key/value storage on client
