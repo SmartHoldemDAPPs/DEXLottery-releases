@@ -2,8 +2,9 @@
 
 If you manage to return to the past knowing the winning ticket and make a bet, the game results will completely change and the winning ticket will change.
 
-# Features:
+# Features
 
+- Four different real-time blockchains
 - Naming Service
 - Block explorers linked: Smartholdem, Bitcoin, PostCoin, Bitshares
 - Highly motivated bonus/affiliate program
@@ -28,3 +29,5 @@ If you manage to return to the past knowing the winning ticket and make a bet, t
 - Support for all mobile devices
 - Sound and settings
 - In lottery 501, the winner takes everything
+- Open statistics about previous winners, winning tickets and payout addresses
+- Nobody knows a winning ticket until the end of the game
