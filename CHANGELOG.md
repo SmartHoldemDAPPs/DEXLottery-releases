@@ -2,7 +2,7 @@ DEX Lottery
 
 ### 1.0.6
 
-- Available blockchain lotteries: Win 100 000 Bitshares, Win 1 000 000 SmartHoldem, Win 1 Bitcoin, Win 250 000 PostCoin
+- Available blockchain lotteries: Win 100 000 Bitshares, Win 500 000 SmartHoldem, Win 1 Bitcoin, Win 250 000 PostCoin
 
 ### 1.0.5
 
